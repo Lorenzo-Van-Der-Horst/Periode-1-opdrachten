@@ -1,0 +1,64 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+
+header {
+  background-color: red;
+  height: 9.5vw;
+}
+
+.s1 {
+  background-color: yellow;
+  height: 13vw;
+}
+
+.s2 {
+  background-color: orange;
+  height: 13vw;
+}
+
+.s3 {
+  background-color: green;
+  height: 13vw;
+}
+
+@media only screen and (max-width: 900px) {
+  header {
+    background-color: pink;
+    height: 9.5vw;
+    
+  }
+  .s1 {
+    background-color: red;
+    height: 13vw;
+  }
+  .s2 {
+    background-color: purple;
+    height: 13vw;
+  }
+  .s3 {
+    background-color: blue;
+    height: 13vw;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  header {
+    background-color: blue;
+    height: 9.5vw;
+  }
+  .s1 {
+    background-color: paleturquoise;
+    height: 13vw;
+  }
+  .s2 {
+    background-color: pink;
+    height: 13vw;
+  }
+  .s3 {
+    background-color: darkblue;
+    height: 13vw;
+  }
+}

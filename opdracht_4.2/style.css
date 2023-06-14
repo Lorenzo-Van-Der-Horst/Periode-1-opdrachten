@@ -1,0 +1,59 @@
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+  }
+  h1 {
+    color: rgb(40, 62, 202);
+  }
+ h1 {
+    font-style: italic;
+  }
+h1 {
+    font-weight: bold;
+  }
+h2 {
+    font-size: 20px;
+  }
+ 
+  h2 {
+    color:#0000ff
+  }
+  h2 {
+    font-weight: bold;
+  }
+  h3 {
+    font-size: 16px;
+  }
+  h3 {
+    color:teal
+  }
+  h3 {
+    font-weight: bold;
+  }
+  p {
+    color:#4D4D4D
+  }
+  p1 {
+    font-weight: bold;
+    color:#dd1c1c;
+  }
+   a {
+    color:#8A2BE2;
+    text-decoration: none;
+  }
+header {
+  height: 550px;
+    width: 100%;
+  }
+  header {
+    background-image: url("https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_4/H2x1_NSwitch_AssassinsCreedIIIDefinitiveEdition_image1600w.jpg");
+  }
+  p {border-style: solid;}
+
+  p {
+    
+    border: 2px solid red;
+    border-radius: 5px;
+  }
+  p {
+    border-bottom: 5px solid red;
+  }
